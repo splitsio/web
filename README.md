@@ -1,0 +1,2 @@
+# web
+Splits.io website
